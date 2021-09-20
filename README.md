@@ -14,7 +14,7 @@ Entrenar un modelo de machine learning a partir del set de datos sobre ventas de
 
 Instalar las dependencias de requirements.txt.
 
-### `pip install requirements.txt`
+### `pip install -r requirements.txt`
 
 ## Correr aplicacion
 
